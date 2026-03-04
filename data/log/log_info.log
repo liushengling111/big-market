@@ -1,0 +1,18 @@
+26-03-04.22:16:15.717 [main            ] INFO  StrategyTest           - Starting StrategyTest using Java 17.0.12 on LAPTOP-UPCLRLHS with PID 31476 (started by liu'sheng'ling in D:\ideaworkspace\big-market\big-market-app)
+26-03-04.22:16:15.718 [main            ] INFO  StrategyTest           - The following 1 profile is active: "dev"
+26-03-04.22:16:16.385 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+26-03-04.22:16:16.388 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+26-03-04.22:16:16.418 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+26-03-04.22:16:17.569 [main            ] INFO  Version                - Redisson 3.23.4
+26-03-04.22:16:17.979 [redisson-netty-2-4] INFO  MasterPubSubConnectionPool - 1 connections initialized for 127.0.0.1/127.0.0.1:6379
+26-03-04.22:16:17.994 [redisson-netty-2-13] INFO  MasterConnectionPool   - 5 connections initialized for 127.0.0.1/127.0.0.1:6379
+26-03-04.22:16:19.549 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+26-03-04.22:16:19.604 [main            ] INFO  StrategyTest           - Started StrategyTest in 4.253 seconds (JVM running for 5.185)
+26-03-04.22:16:20.178 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+26-03-04.22:16:20.578 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+26-03-04.22:16:20.654 [main            ] INFO  StrategyTest           - 测试结果：true
+26-03-04.22:16:20.662 [main            ] INFO  StrategyTest           - 测试结果：103 - 4000 策略配置
+26-03-04.22:16:20.667 [main            ] INFO  StrategyTest           - 测试结果：103 - 5000 策略配置
+26-03-04.22:16:20.672 [main            ] INFO  StrategyTest           - 测试结果：103 - 6000 策略配置
+26-03-04.22:16:20.715 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+26-03-04.22:16:20.737 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
